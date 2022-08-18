@@ -6,7 +6,7 @@
 
 
 
-- 🔭 I’m currently Student of **Masai School**
+- 🔭 I’m currently Aspiring Full Stack Web Developer course at <a href="https://www.masaischool.com/">**Masai School**</a>
 
 - 🌱 I’m currently learning **React Redux**
 
