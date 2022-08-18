@@ -1,9 +1,10 @@
-<h1 align="center">Hi 👋, I'm Abdullah</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
-<img src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abhm1999&label=Profile%20views&color=0e75b6&style=flat" alt="abhm1999" /> </p>
+<h1 align="center">Hi <span> <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="35px"></span>, I'm Abdullah</h1>
+<h3 align="center">I'm a passionate Full Stack Web Developer and I am interested in developing new things which excite me a lot. I love exploring new technologies, I like to stay on top of latest trends. </h3>
+<h1 align="center" ><img width="300" height="300" src="https://camo.githubusercontent.com/e0e846e61b507788af6c1e3a0475478cebe5d77418d21365ae6d104a4a8e0993/68747470733a2f2f692e696d6775722e636f6d2f373939793541332e706e67"style="max-width: 100%;">
+ 
+</h1>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abhm1999" alt="abhm1999" /></a> </p>
+
 
 - 🔭 I’m currently Student of **Masai School**
 
